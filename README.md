@@ -345,6 +345,8 @@ The unfortunate fact is, PhD students don't make much money. Many programs in hi
 #### How many potential advisors you identified
 At each program, you need to identify a minimum of 2 potential advisors. If you're only seeing one professor you have a strong potential match with, it may not be the best program for you.
 
+NOTE: This guidace applies to many, but not all disciplines. If you are finding that no universities seem to have more than one professor you have a strong potential match with, that's ok. 
+
 #### Services available to graduate students
 If you look a little closer at a University and can't seem to find any mention of professional development, mentorship, mental health, diversity and inclusion, or any other services offered to graduate students....yikes. Even if you are somehow lucky enough to find the most supportive, involved PhD advisor in the world, you're still going to need extra resources at times. 
 
